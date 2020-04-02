@@ -1,6 +1,6 @@
-***************************************************************
-                    form validation
-################################################################
+
+                    #form validation
+
 it consist of login frontend and javascript validation of the user 
 credentials before they are send to the backend.
 
